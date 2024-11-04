@@ -1,0 +1,6 @@
+import "./style.css"
+import logoImage from "./images/logo.png"
+import inboxIcon from "./images/inbox.png"
+import todayIcon from "./images/today.png"
+import upcomingIcon from "./images/upcoming.png"
+import anytimeIcon from "./images/anytime.png"
